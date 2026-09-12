@@ -110,7 +110,8 @@ Makes the evidence available for inspection.
 Result:
 CEO: Jensen Huang
 ✓ Researched
-What Makes It Different
+```text
+##What Makes It Different
 Context Lens is not simply another browser automation tool.
 The central idea is where the agent lives.
 Traditional AI assistants require users to leave their workflow and provide context.
