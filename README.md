@@ -2,6 +2,8 @@
 
 > **The page becomes the prompt.**
 
+   ![Context Lens overview](assets/context-lens-hero.png)
+
 Context Lens is a browser-native AI agent designed to bring intelligence directly into the environment where work happens.
 
 Knowledge workers constantly leave their workflow to search for information, ask an AI assistant, and manually copy answers back into forms and applications.
