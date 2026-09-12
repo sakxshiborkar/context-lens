@@ -122,13 +122,12 @@ Context Lens is not simply another browser automation tool. The central idea is 
 
 This repository contains the hackathon prototype for Context Lens. The prototype focuses on demonstrating the interaction model, contextual research workflow, evidence-backed enrichment, and browser-native experience.
 
-## Built For
+   ## Built For
+   Agents, Everywhere: Bots, Channels, & More
 
-Agents, Everywhere: Bots, Channels, & More
-Global Hackathon
-AI Tinkerers × OpenAI
-
-## Author
-
-Built by Sakshi Borkar
-Team: OUT OF CONTEXT
+   **Hackathon:** Global Hackathon — AI Tinkerers × OpenAI
+   
+  ## Author
+   Built by Sakshi Borkar
+   
+**Team:** OUT OF CONTEXT
