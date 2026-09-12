@@ -99,3 +99,30 @@ Company: NVIDIA
 CEO: [missing]
 Founded: 1993
 Headquarters: Santa Clara, California
+The user invokes Context Lens on the missing CEO field.
+The agent:
+Understands the field and surrounding account context.
+Searches the web using Exa.
+Extracts the relevant information.
+Associates the answer with its source.
+Writes the result back into the workflow.
+Makes the evidence available for inspection.
+Result:
+CEO: Jensen Huang
+✓ Researched
+What Makes It Different
+Context Lens is not simply another browser automation tool.
+The central idea is where the agent lives.
+Traditional AI assistants require users to leave their workflow and provide context.
+Context Lens embeds intelligence into the workflow itself.
+The page becomes the prompt.
+Project Status
+This repository contains the hackathon prototype for Context Lens.
+The prototype focuses on demonstrating the interaction model, contextual research workflow, evidence-backed enrichment, and browser-native experience.
+Built For
+Agents, Everywhere: Bots, Channels, & More
+Global Hackathon
+AI Tinkerers × OpenAI
+Author
+Built by Sakshi Borkar
+Team: OUT OF CONTEXT
